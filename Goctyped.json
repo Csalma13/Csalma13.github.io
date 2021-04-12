@@ -1,0 +1,86 @@
+{
+    "nodes": [
+      {
+        "id": "Rózsa György"
+      },
+      {
+        "id": "Andik Szabolcs"
+      },
+      {
+        "id": "Farkas Zoltán"
+      },
+      {
+        "id": "Bodnár Károly"
+      },
+      {
+        "id": "Kovács Krisztián"
+      },
+      {
+        "id": "Fehér Csaba"
+      },
+      {
+        "id": "Őri Tamás"
+      },
+      {
+        "id": "Keresztesi Klaudia"
+      },
+      {
+        "id": "Farkas Péter"
+      },
+      {
+        "id": "Hellvig Tamás"
+      },
+      {
+        "id": "Tellár László"
+      },
+      {
+        "id": "Dömötör László"
+      },
+      {
+        "id": "Csillag István"
+      },
+      {
+        "id": "Juszkó Ferenc"
+      },
+      {
+        "id": "Lénárd Gábor"
+      },
+      {
+        "id": "Papp József"
+      },
+      {
+        "id": "Sütő istván"
+      },
+      {
+        "id": "Baranyi Zoltán"
+      },
+      {
+        "id": "Erdélyi András"
+      },
+      {
+        "id": "Ungvári Zoltán"
+      }
+    ],
+    "edges": 
+    [
+      { "from": "Andik Szabolcs", "to": "Rózsa György" },
+      { "from": "Farkas Zoltán", "to": "Rózsa György" },
+      { "from": "Bodnár Károly", "to": "Rózsa György" },
+      { "from": "Kovács Krisztián", "to": "Rózsa György" },
+      { "from": "Fehér Csaba", "to": "Rózsa György" },
+      { "from": "Őri Tamás", "to": "Rózsa György" },
+      { "from": "Keresztes Klaudia", "to": "Rózsa György" },
+      { "from": "Hellvig Tamás", "to": "Rózsa György" },
+      { "from": "Farkas Péter", "to": "Rózsa György" },
+      { "from": "Tellár László", "to": "Rózsa György" },
+      { "from": "Dömötör László", "to": "Rózsa György" },
+      { "from": "Csillag István", "to": "Rózsa György" },
+      { "from": "Juszkó Ferenc", "to": "Rózsa György" },
+      { "from": "Lénárd Gábor", "to": "Rózsa György" },
+      { "from": "Papp József", "to": "Rózsa György" },
+      { "from": "Sütő István", "to": "Rózsa György" },
+      { "from": "Baranyi Zoltán", "to": "Rózsa György" },
+      { "from": "Erdélyi András", "to": "Rózsa György" },
+      { "from": "Ungvári Zoltán", "to": "Rózsa György" },
+    ]
+  }
